@@ -1,8 +1,8 @@
 - 👋 Hi, I’m [`Mario Klement`](https://keybase.io/marioklement)
 - 📫 How to reach me:
 
-| `🌐` | `contact` |
-|:---:|:---:|
+|   `🌐`   |    `contact`   |
+|:-------:|:---------------:|
 | `Skype` | `mario.klement` |
 
 <!---
