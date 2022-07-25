@@ -1,4 +1,5 @@
 - 👋 Hi, I’m [`Mario Klement`](https://keybase.io/marioklement)
+- 📈 Checkout my [`services uptimes`](https://stats.uptimerobot.com/vkYv8uEZky)
 - 📫 How to reach me:
 
 | `🌐` | `Contact` |
