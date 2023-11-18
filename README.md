@@ -8,8 +8,7 @@
   <a href="https://www.zsh.org/"><img src="https://img.shields.io/badge/Shell-Zsh%205.8-%23F15A24?logo=zsh&logoColor=%23F15A24"></a>
   <a href="https://www.gnome.org/"><img src="https://img.shields.io/badge/DE-GNOME%2040.10-%234A86CF?logo=gnome&logoColor=%234A86CF"></a>
   <br>
-  <img src="https://img.shields.io/badge/mario%40klement.pm-%236D4AFF?style=social&logo=protonmail&logoColor=%236D4AFF&link=mailto%3Amario%40klement.pm">
-  <img src="https://img.shields.io/badge/marioklement-black?style=social&logo=keybase&logoColor=black&link=https%3A%2F%2Fkeybase.io%2Fmarioklement">
-  <br>
-  <a href="https://revolut.me/marioklement"><img src="https://img.shields.io/badge/Revolut-me!-black?logo=revolut&logoColor=black&labelColor=white"></a>
+  <a href="mailto:mario@klement.pm"><img src="https://img.shields.io/badge/mario%40klement.pm-%236D4AFF?style=social&logo=protonmail&logoColor=%236D4AFF"></a>
+  <a href="https://keybase.io/marioklement"><img src="https://img.shields.io/badge/marioklement-black?style=social&logo=keybase&logoColor=%233663EA"></a>
+  <a href="https://revolut.me/marioklement"><img src="https://img.shields.io/badge/%40marioklement-black?style=social&logo=revolut&logoColor=black"></a>
 </div>
